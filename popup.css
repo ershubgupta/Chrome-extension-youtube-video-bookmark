@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600;700&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+.yt-container {
+  width: 250px;
+  background-color: #f2d8d8;
+  padding: 10px;
+}
+#yt-save-btn {
+  outline: 0;
+  border: none;
+  background-color: #5c8984;
+  color: #f2d8d8;
+  font-size: 20px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 0 auto;
+  display: block;
+  cursor: pointer;
+  margin: 10px auto 20px;
+}
+.yt-video-url {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.yt-video-url a {
+  color: #545b77;
+  font-weight: 500;
+  font-size: 14px;
+}
